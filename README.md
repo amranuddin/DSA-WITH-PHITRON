@@ -2,6 +2,7 @@
 
 
 Welcome to **MY MINI PROJEcCT** – a collection of practical mini projects built using **C**, **C++**, and **Python**.  
+
 This repository is my learning playground where I apply programming concepts to real-world problems and build a strong foundation in software development.
 
 ---
